@@ -1,53 +1,52 @@
-# <p align="center">
-  <img src="https://example.com/path/to/impressive_banner.gif" alt="Nguyễn Minh Triển - Senior PHP & Backend Architect" width="100%" />
-</p>
+# Hi, I'm Nguyen Minh Trien 👋
 
-# Hi there, I'm Nguyễn Minh Triển (Tyler Code) 👋
-### Senior PHP / Backend Engineer | Architectural Design 🚀
+**PHP Backend Engineer** based in Ho Chi Minh City, Vietnam.
 
-I am a **PHP Backend Engineer with over 4 years of expertise**, specializing in architecting and maintaining high-performance Laravel/PHP systems for critical business operations like B2B platforms, ERP integrations, and internal workflow tools. My focus is on turning complex business needs into reliable, scalable, and maintainable backend systems.
+I build backend systems for business platforms, e-commerce workflows, internal tools, and ERP-integrated applications. My focus is writing maintainable APIs, designing reliable data flows, and solving production issues with practical trade-offs.
 
----
+## What I work with
 
-### 🛠️ Expertise Pillars
+* **Backend:** PHP 8, Laravel, FuelPHP, REST APIs, Webhooks
+* **Database:** MySQL, PostgreSQL, Database Design, ERD, Indexing, Query Optimization
+* **Async Processing:** Redis, Queues, Workers, Cron Jobs
+* **Infrastructure:** Docker, Docker Compose, Linux, Nginx, Apache
+* **Delivery:** Git, GitLab CI/CD
+* **Integration:** ERP synchronization, payment flows, file processing, external APIs
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-SCALABLE%20SYSTEMS-00bcd4?style=flat&logo=chart-line-up&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-DATABASE%20%26%20CACHING-FF9800?style=flat&logo=database&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-CI%2FCD%20PIPELINES-4CAF50?style=flat&logo=gitlab&logoColor=white" height="30" />
-</p>
+## Things I care about
 
-- **B2B Platforms & ERP Integration:** Expert in developing core backend services, handling high-volume data synchronization, and designing partner-facing APIs.
-- **High-Performance Architectures:** Built scalable background workers with Redis Queues, Cron Jobs, and WebSockets to optimize real-time data flow.
-- **Data & Query Optimization:** Seasoned in ERD design and advanced SQL query optimization for maintained reporting speed.
-- **AI Integration:** Integrated Gemini AI to automate processes like applicant resume parsing.
-- **Technical Leadership:** Mentored juniors, performed code reviews, and planned complex deployments.
+* Clear business rules and predictable system behavior
+* Database consistency and safe transaction boundaries
+* Idempotency for webhooks, jobs, and external integrations
+* Observability: useful logs, error context, and debuggable production issues
+* Performance improvements based on measurement, not guesswork
+* Maintaining backward compatibility when evolving APIs
 
----
+## Selected Experience
 
-### 💻 Tech Stack & Tools
+### B2B Printing & ERP Integration Platform
 
-<p align="center">
-  <img src="https://example.com/path/to/php_laravel_badge_rotation.gif" height="60" />
-  <img src="https://example.com/path/to/docker_gitlab_badge_rotation.gif" height="60" />
-  <img src="https://example.com/path/to/mysql_postgresql_badge_rotation.gif" height="60" />
-</p>
+Built and maintained backend workflows for a B2B printing platform with order management, product/template configuration, grouped orders, payment flows, ERP synchronization, shipping updates, and file-processing workflows.
 
----
+Key contributions:
 
-### 📊 GitHub Stats
+* Designed and implemented REST APIs for order, cart, template, and product flows.
+* Built scheduled ERP synchronization for order status and tracking information.
+* Implemented Redis queues and workers for asynchronous processing.
+* Investigated and fixed production issues across ordering, pricing, option mapping, and external integrations.
+* Improved data access patterns through query optimization and database indexing.
+* Set up Docker-based local environments and GitLab CI/CD deployment workflows.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trienpq123&show_icons=true&theme=tokyonight&count_private=true&text_color=00bcd4" alt="Trien's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trienpq123&layout=compact&theme=tokyonight&text_color=00bcd4" alt="Top Langs" height="180px" />
-</p>
+## Currently learning
 
----
+* System design and architecture trade-offs
+* Domain-Driven Design fundamentals
+* Distributed system patterns: idempotency, retry, eventual consistency
+* Testing strategy for Laravel applications
+* Performance profiling and production observability
 
-### 📬 Connect with me
+## Contact
 
-<p align="left">
-  <code>>>> connect --to linkedin</code> <a href="https://www.linkedin.com/in/trien-developer/"><img src="https://img.shields.io/badge/-Nguyễn%20Minh%20Triển-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" /></a><br />
-  <code>>>> send --mail</code> <a href="mailto:anhtrienpq123@gmail.com"><img src="https://img.shields.io/badge/-anhtrienpq123%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="25" /></a><br />
-  <code>>>> call --phone</code> <a href="tel:+84332033402"><img src="https://img.shields.io/badge/-033.2033.402-4CAF50?style=flat&logo=phone&logoColor=white" height="25" /></a>
-</p>
+* LinkedIn: https://www.linkedin.com/in/trien-developer
+* Email: anhtrienpq123@gmail.com
+* Location: Ho Chi Minh City, Vietnam
